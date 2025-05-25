@@ -1,0 +1,9 @@
+{
+  "name": "Ultimate Viral Trivia Challenge",
+  "short_name": "Trivia",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ff4b2b",
+  "theme_color": "#ff0066",
+  "icons": []
+}
